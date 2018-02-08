@@ -1,2 +1,2 @@
 # Teoria-Computacional
-practicas de teoria computacional
+prácticas de teoria computacional
